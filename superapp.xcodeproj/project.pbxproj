@@ -39,33 +39,9 @@
 		D6430EE32E6F5BE400A23BEA /* superappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = superappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		D6430F682E6F646D00A23BEA /* Exceptions for "superapp" folder in "superapp" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				FirebaseRules/db.rules.json,
-			);
-			target = D6430ECB2E6F5BDF00A23BEA /* superapp */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		D6430F692E6F646D00A23BEA /* Exceptions for "superapp" folder in "Compile Sources" phase from "superapp" target */ = {
-			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
-			buildPhase = D6430EC82E6F5BDF00A23BEA /* Sources */;
-			membershipExceptions = (
-				FirebaseRules/db.rules.json,
-			);
-		};
-/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		D6430ECE2E6F5BDF00A23BEA /* superapp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				D6430F682E6F646D00A23BEA /* Exceptions for "superapp" folder in "superapp" target */,
-				D6430F692E6F646D00A23BEA /* Exceptions for "superapp" folder in "Compile Sources" phase from "superapp" target */,
-			);
 			path = superapp;
 			sourceTree = "<group>";
 		};
@@ -240,6 +216,7 @@
 			knownRegions = (
 				en,
 				Base,
+				fr,
 			);
 			mainGroup = D6430EC32E6F5BDF00A23BEA;
 			minimizedProjectReferenceProxies = 1;

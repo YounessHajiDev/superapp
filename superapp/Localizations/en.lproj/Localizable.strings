@@ -1,0 +1,220 @@
+//
+//  Localizable.strings
+//  superapp
+//
+//  Created by Youness Haji on 2025-09-08.
+//
+
+/* ===========================
+   Brand / General
+   =========================== */
+"InkMatching" = "InkMatching";
+"Find your artist. Love your tattoo." = "Find your artist. Love your tattoo.";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"Close" = "Close";
+"Save" = "Save";
+"Delete" = "Delete";
+"Copy" = "Copy";
+"Loading…" = "Loading…";
+"Please wait…" = "Please wait…";
+
+/* ===========================
+   Tab Bar
+   =========================== */
+"Explore" = "Explore";
+"Stencils" = "Stencils";
+"Aftercare" = "Aftercare";
+"Chat" = "Chat";
+"Settings" = "Settings";
+
+/* ===========================
+   Explore / Map
+   =========================== */
+"Nearby" = "Nearby";
+"Using default location" = "Using default location";
+"Recenter" = "Recenter";
+"Refresh" = "Refresh";
+"Directions" = "Directions";
+"Route" = "Route";
+"Open in Maps" = "Open in Maps";
+
+/* Map Share */
+"Share Location" = "Share Location";
+"Search places" = "Search places";
+"Use my location" = "Use my location";
+"Zoom in" = "Zoom in";
+"Zoom out" = "Zoom out";
+"Selected location" = "Selected location";
+"Copy coordinates" = "Copy coordinates";
+"Sharing…" = "Sharing…";
+"Share location" = "Share location";
+"Location unavailable." = "Location unavailable.";
+"Search failed" = "Search failed";
+"Route unavailable" = "Route unavailable";
+"Not signed in." = "Not signed in.";
+"Copied coordinates" = "Copied coordinates";
+
+/* Day headers */
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+
+/* ===========================
+   Weather (API demo)
+   =========================== */
+"Search a city or place" = "Search a city or place";
+"Tip" = "Tip";
+"Use conditions to plan tattoo sessions" = "Use conditions to plan tattoo sessions";
+"Updated %@" = "Updated %@";
+
+/* ===========================
+   Auth
+   =========================== */
+"Sign in" = "Sign in";
+"Sign up" = "Sign up";
+"Create account" = "Create account";
+"Create your account" = "Create your account";
+"Match with artists, share stencils & aftercare." = "Match with artists, share stencils & aftercare.";
+"Display name" = "Display name";
+"Email" = "Email";
+"Password" = "Password";
+"Password (min 6)" = "Password (min 6)";
+"Confirm password" = "Confirm password";
+"Role" = "Role";
+"Client" = "Client";
+"Artist" = "Artist";
+"Remember email" = "Remember email";
+"Forgot password?" = "Forgot password?";
+"Already have an account? Sign in" = "Already have an account? Sign in";
+"By continuing you agree to our Terms & Privacy." = "By continuing you agree to our Terms & Privacy.";
+"Demo accounts" = "Demo accounts";
+"Artist A" = "Artist A";
+"Artist B" = "Artist B";
+
+/* Auth feedback (AuthViewModel) */
+"Welcome back" = "Welcome back";
+"Account created" = "Account created";
+"Password reset email sent" = "Password reset email sent";
+"Enter a valid email" = "Enter a valid email";
+"Profile updated" = "Profile updated";
+
+/* Register avatar */
+"Profile photo (optional)" = "Profile photo (optional)";
+"Helps artists recognize you in chat." = "Helps artists recognize you in chat.";
+"Choose photo" = "Choose photo";
+"I am" = "I am";
+"I accept the" = "I accept the";
+"Terms" = "Terms";
+"and" = "and";
+"Privacy" = "Privacy";
+"Creating account…" = "Creating account…";
+"You can add/change your photo later in Settings." = "You can add/change your photo later in Settings.";
+
+/* ===========================
+   Chat (Inbox + Room)
+   =========================== */
+"No conversations" = "No conversations";
+"Start a chat from an artist profile or a request." = "Start a chat from an artist profile or a request.";
+"Search chats" = "Search chats";
+"New chat" = "New chat";
+"Start a new chat" = "Start a new chat";
+"Enter the user ID of the artist or client you want to chat with." = "Enter the user ID of the artist or client you want to chat with.";
+"Other user's UID" = "Other user's UID";
+"Create chat" = "Create chat";
+"Creating…" = "Creating…";
+"Thread" = "Thread";
+
+/* Messages / composer */
+"Message…" = "Message…";
+"Photo" = "Photo";
+"Location shared" = "Location shared";
+
+/* ===========================
+   Notifications (local)
+   =========================== */
+"Open chat" = "Open chat";
+"Reply" = "Reply";
+"Send" = "Send";
+"Open aftercare" = "Open aftercare";
+"Mark as done" = "Mark as done";
+"Aftercare" = "Aftercare";
+"Day %d: time to clean & moisturize" = "Day %d: time to clean & moisturize";
+"New message" = "New message";
+
+/* ===========================
+   Settings
+   =========================== */
+"Profile" = "Profile";
+"Appearance" = "Appearance";
+"Theme & language" = "Theme & language";
+"Theme" = "Theme";
+"Language" = "Language";
+"Notifications" = "Notifications";
+"Reminders & chat pings" = "Reminders & chat pings";
+"Permission" = "Permission";
+"Request permission" = "Request permission";
+"Send test" = "Send test";
+"Open Settings" = "Open Settings";
+"Location" = "Location";
+"Permissions & accuracy" = "Permissions & accuracy";
+"Status" = "Status";
+"Accuracy" = "Accuracy";
+"Request access" = "Request access";
+"Precise (temp)" = "Precise (temp)";
+"Clear cached location" = "Clear cached location";
+"Privacy" = "Privacy";
+"Local data & cache" = "Local data & cache";
+"Clear API cache & cookies" = "Clear API cache & cookies";
+"Export my data (coming soon)" = "Export my data (coming soon)";
+"Account" = "Account";
+"Danger zone" = "Danger zone";
+"Delete account" = "Delete account";
+"Sign out" = "Sign out";
+"Sign out?" = "Sign out?";
+"You can sign back in anytime." = "You can sign back in anytime.";
+"Delete account?" = "Delete account?";
+"This action is permanent. Your messages and profile will be removed." = "This action is permanent. Your messages and profile will be removed.";
+"Version" = "Version";
+"Build" = "Build";
+"Weather demo" = "Weather demo";
+
+/* Settings toasts */
+"Requested" = "Requested";
+"Saved" = "Saved";
+"Photo updated" = "Photo updated";
+"Cleared" = "Cleared";
+"Cache cleared" = "Cache cleared";
+"Account deleted" = "Account deleted";
+"Deletion failed: %@" = "Deletion failed: %@";
+
+/* ===========================
+   Stencils / Aftercare placeholders
+   =========================== */
+"Your briefs" = "Your briefs";
+"Create a brief and get proposals" = "Create a brief and get proposals";
+"No briefs yet" = "No briefs yet";
+"Describe your tattoo idea to receive stencil proposals." = "Describe your tattoo idea to receive stencil proposals.";
+"Create brief" = "Create brief";
+"Aftercare plans" = "Aftercare plans";
+"Reminders keep your tattoo healing well" = "Reminders keep your tattoo healing well";
+"No active plan" = "No active plan";
+"Once you book a session, your artist can share a plan. We'll remind you each day." = "Once you book a session, your artist can share a plan. We'll remind you each day.";
+"Learn more" = "Learn more";
+
+/* ===========================
+   Media Picker
+   =========================== */
+"Choose media" = "Choose media";
+"Take Photo" = "Take Photo";
+"Photo from Library" = "Photo from Library";
+"Record Video" = "Record Video";
+"Video from Library" = "Video from Library";
+"Camera access denied." = "Camera access denied.";
+"Camera access denied. Enable it in Settings." = "Camera access denied. Enable it in Settings.";
+"Invalid image." = "Invalid image.";
+
+/* ===========================
+   LocationService errors
+   =========================== */
+"Location access is disabled. Please enable it in Settings." = "Location access is disabled. Please enable it in Settings.";
